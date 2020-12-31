@@ -7,8 +7,18 @@ body {
     background: #f1f1f1;
 }
 
+/* Nav */
+.navbar-brand {
+    font-size: 25px;
+    font-family: 'Kaushan Script';
+}
+
+#navbarCollapse a {
+    font-size: 20px;
+}
+
 /* Header */
-header{
+header {
     background: url(../images/headerImg.jpg);
     background-size: cover;
     height: 80vh;
